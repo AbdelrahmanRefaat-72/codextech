@@ -1,0 +1,171 @@
+[
+  {
+    "id": "website-development",
+    "category": "web",
+    "icon": "Globe",
+    "title": {
+      "en": "Website Development",
+      "ar": "تطوير المواقع الإلكترونية"
+    },
+    "tagline": {
+      "en": "High-converting, responsive websites engineered for modern brands",
+      "ar": "مواقع تفاعلية وسريعة مصممة لإبهار عملائك ومضاعفة مبيعاتك"
+    },
+    "subServices": [
+      { "name": { "en": "Business Websites", "ar": "مواقع الشركات والمؤسسات" } },
+      { "name": { "en": "Restaurant & Cafe Websites", "ar": "مواقع المطاعم والكافيهات" } },
+      { "name": { "en": "Medical & Clinic Websites", "ar": "مواقع المراكز الطبية والعيادات" } },
+      { "name": { "en": "Portfolio Websites", "ar": "مواقع المعارض والشخصيات" } },
+      { "name": { "en": "High-Converting Landing Pages", "ar": "صفحات الهبوط المخصصة" } }
+    ],
+    "features": {
+      "en": [
+        "100% Mobile Responsive & Touch Optimized",
+        "Sub-Second Page Load Speed (Vite/React)",
+        "Built-in SEO & OpenGraph Optimization",
+        "Multilingual (English / Arabic RTL) Support",
+        "Interactive Booking & Contact Systems",
+        "Custom Animated UI (Framer Motion)"
+      ],
+      "ar": [
+        "متوافقة 100% مع الهواتف وجميع الشاشات",
+        "سرعة تحميلائقة (أقل من ثانية واحدة)",
+        "تهيئة شاملة لمحركات البحث (SEO)",
+        "دعم كامل للغتين العربية والانجليزية",
+        "أنظمة حجز ونماذج اتصل بنا تفاعلية",
+        "مؤثرات بصرية وحركية راقية (Framer Motion)"
+      ]
+    },
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Vite", "Framer Motion", "Node.js"],
+    "faqs": [
+      {
+        "question": {
+          "en": "How long does it take to develop a business website?",
+          "ar": "كم يستغرق وقت تطوير موقع إلكتروني للشركة؟"
+        },
+        "answer": {
+          "en": "Typical business websites take 1 to 2 weeks depending on custom features, content preparation, and integrations required.",
+          "ar": "يستغرق العمل من أسبوع إلى أسبوعين حسب متطلبات الموقع والميزات والتكاملات المطلوبة."
+        }
+      },
+      {
+        "question": {
+          "en": "Will my website look great on phones and tablets?",
+          "ar": "هل سيكون الموقع متوافقاً تماماً مع جميع الهواتف؟"
+        },
+        "answer": {
+          "en": "Yes! Every single site we design is fully mobile-first responsive, tested across desktop, tablet, iOS, and Android screens.",
+          "ar": "بالتأكيد! جميع تصميماتنا تعتمد أولاً على تجربة الهواتف الذكية مع ضبط الدقة لجميع الشاشات."
+        }
+      }
+    ]
+  },
+  {
+    "id": "custom-management-systems",
+    "category": "custom",
+    "icon": "Database",
+    "title": {
+      "en": "Custom Management Systems (ERP/CRM)",
+      "ar": "أنظمة الإدارة المخصصة (ERP/CRM)"
+    },
+    "tagline": {
+      "en": "Automate core operations, inventory, clinic workflow, and education platforms",
+      "ar": "أتمتة العمليات الإدارية، المخازن، العيادات، والمنصات التعليمية"
+    },
+    "subServices": [
+      { "name": { "en": "Education & LMS Systems", "ar": "أنظمة إدارة التعليم والطلاب" } },
+      { "name": { "en": "Clinic & Medical Systems", "ar": "أنظمة إدارة العيادات والمرضى" } },
+      { "name": { "en": "Inventory & POS Systems", "ar": "أنظمة المخازن ونقاط البيع" } },
+      { "name": { "en": "Custom Tailored Solutions", "ar": "حلول برمجية مخصصة حسب الطلب" } }
+    ],
+    "features": {
+      "en": [
+        "Role-Based Access Control & User Permissions",
+        "Real-Time Analytics & Financial Reporting",
+        "Automated PDF Invoicing & Receipts",
+        "Patient / Student / Product Search & Filtering",
+        "Cloud Sync & Daily Automatic Backups",
+        "Multi-Branch Support & Branch Auditing"
+      ],
+      "ar": [
+        "إدارة صلاحيات المستخدمين حسب الأدوار",
+        "تقارير مالية وإحصائيات لحظية مبسطة",
+        "إصدار الفواتير والإيصالات تلقائياً",
+        "بحث سريع وتصفية للمرضى / الطلاب / المنتجات",
+        "مزامنة سحابية ونشخ احتياطي يومي تلقائي",
+        "دعم إدارة الفروع المتعددة ومراقبة المخزون"
+      ]
+    },
+    "technologies": ["React", "TypeScript", "Node.js / Express", "PostgreSQL / MongoDB", "Tailwind CSS", "REST/GraphQL API"],
+    "faqs": [
+      {
+        "question": {
+          "en": "Can we request custom features specific to our business logic?",
+          "ar": "هل يمكن إضافة ميزات مخصصة تناسب طريقة عمل شركتنا فقط؟"
+        },
+        "answer": {
+          "en": "Absolutely. We build all management systems from scratch around your exact workflow, rather than forcing you into rigid templates.",
+          "ar": "نعم بالتأكيد! نحن نبني النظام بالكامل وفقاً لدورة عملك ومراحل الإدارة الخاصة بشركتك."
+        }
+      },
+      {
+        "question": {
+          "en": "Is the system secure against data loss or unauthorized access?",
+          "ar": "هل النظام آمن ضد فقدان البيانات أو الوصول غير المصرح به؟"
+        },
+        "answer": {
+          "en": "We implement enterprise grade encryption, JWT authentication, and automatic cloud backups to guarantee high security.",
+          "ar": "نطبق أعلى معايير التشفير والمصادقة الأمنية، بالإضافة إلى النسخ الاحتياطي التلقائي للحفاظ على بياناتك."
+        }
+      }
+    ]
+  },
+  {
+    "id": "desktop-applications",
+    "category": "desktop",
+    "icon": "Laptop",
+    "title": {
+      "en": "Desktop Applications",
+      "ar": "تطبيقات سطح المكتب"
+    },
+    "tagline": {
+      "en": "Ultra-fast, native-feeling desktop software for Windows, macOS, and Linux",
+      "ar": "برامج سطح مكتب فائقة السرعة تعمل بدون إنترنت وبأداء استثنائي"
+    },
+    "subServices": [
+      { "name": { "en": "Business Software", "ar": "برامج إدارة الأعمال والشركات" } },
+      { "name": { "en": "Management Tools", "ar": "أدوات الإدارة والتحكم" } },
+      { "name": { "en": "Offline POS Systems", "ar": "أنظمة نقاط البيع بدون إنترنت" } },
+      { "name": { "en": "Custom Desktop Programs", "ar": "برامج سطح مكتب مخصصة" } }
+    ],
+    "features": {
+      "en": [
+        "Offline Capabilities & Local Database Storage",
+        "Hardware Integration (Barcode Scanners, Thermal Printers)",
+        "Zero Latency Native Performance",
+        "Automatic Auto-Update Distribution",
+        "Cross-Platform Windows, macOS, and Linux builds"
+      ],
+      "ar": [
+        "إمكانية العمل الكامل بدون الحاجة لاتصال بالإنترنت",
+        "ربط الملحقات (قوارئ البارلود، طابعات الفواتير الحرارية)",
+        "استجابة سريعة جداً بدون أي تأخير",
+        "تحديثات تلقائية سلسة للبرنامج",
+        "توافق مع أنظمة Windows و macOS و Linux"
+      ]
+    },
+    "technologies": ["Electron", "React", "TypeScript", "SQLite", "Tailwind CSS", "Node Native"],
+    "faqs": [
+      {
+        "question": {
+          "en": "Can desktop applications print thermal receipts directly?",
+          "ar": "هل يستطيع برنامج سطح المكتب الطباعة المباشرة على طابعات الفواتير الحرارية؟"
+        },
+        "answer": {
+          "en": "Yes, our desktop applications communicate directly with thermal printers, cash drawers, and barcode readers.",
+          "ar": "نعم، تتصل تطبيقات سطح المكتب مباشرة بجميع أنواع الطابعات الحرارية وأجهزة الباركون ودرج النقدية."
+        }
+      }
+    ]
+  }
+]

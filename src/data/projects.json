@@ -1,0 +1,138 @@
+[
+  {
+    "id": "urban-cafe-restaurant",
+    "name": {
+      "en": "Urban Cafe & Restaurant Platform",
+      "ar": "منصة مطعم وكافيه اوربان"
+    },
+    "category": "web",
+    "description": {
+      "en": "Modern, luxury restaurant website featuring interactive menu preview, online table reservation system, and smooth ambient dark UI.",
+      "ar": "منصة إلكترونية فاخرة للمطاعم والكافيهات تشمل قائمة طعام تفاعلية، نظام حجز طاولات أونلاين، وتصميم عصري جذاب."
+    },
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["React", "Vite", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    "demoUrl": "https://cafeurban-beta.vercel.app/",
+    "githubUrl": "https://github.com/codex-technology/urban-cafe",
+    "featured": true
+  },
+  {
+    "id": "healthcare-medical-system",
+    "name": {
+      "en": "Healthcare & Clinic Portal",
+      "ar": "منصة العيادات والمراكز الطبية"
+    },
+    "category": "custom",
+    "description": {
+      "en": "Comprehensive clinic management platform for patient appointments, doctor scheduling, electronic medical records (EMR), and health consultation.",
+      "ar": "منصة متكاملة لإدارة المراكز الطبية والعيادات تشمل حجز المواعيد، السجلات الطبية الإلكترونية للمرضى، وجداول الأطباء."
+    },
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Lucide React", "REST API"],
+    "demoUrl": "https://healthcare-vert-theta.vercel.app/",
+    "githubUrl": "https://github.com/codex-technology/healthcare-portal",
+    "featured": true
+  },
+  {
+    "id": "edumanager-education-system",
+    "name": {
+      "en": "EduManager Education System",
+      "ar": "نظام ايديومانجر لإدارة التعليم"
+    },
+    "category": "custom",
+    "description": {
+      "en": "All-in-one education system for schools & academies. Supports course enrollment, student performance tracking, online exams, and tuition billing.",
+      "ar": "نظام إداري متكامل للأكاديميات والمدارس يغطي تسجيل المقررات، متابعة نتائج الطلاب، الامتحانات الإلكترونية، والفواتير."
+    },
+    "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["React", "Vite", "TypeScript", "Tailwind CSS", "Recharts"],
+    "demoUrl": "https://edumanager-delta-nine.vercel.app/",
+    "githubUrl": "https://github.com/codex-technology/edumanager",
+    "featured": true
+  },
+  {
+    "id": "mohamed-moemen-portfolio",
+    "name": {
+      "en": "Mohamed Moemen — Personal Portfolio",
+      "ar": "موقع بورتفوليو — محمد مؤمن"
+    },
+    "category": "web",
+    "description": {
+      "en": "Sleek, high-performance portfolio website showcasing digital projects, interactive UI elements, and developer achievements.",
+      "ar": "موقع تعريف شخصي احترافي وعالي الأداء يعرض المشاريع الرقمية والإنجازات بتصميم جذاب وسريع."
+    },
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    "demoUrl": "https://mohamedmoemen.vercel.app/",
+    "githubUrl": "https://github.com/codex-technology/mohamedmoemen-portfolio",
+    "featured": false
+  },
+  {
+    "id": "ragab-madkour-portfolio",
+    "name": {
+      "en": "Ragab Madkour — Developer Portfolio",
+      "ar": "موقع بورتفوليو — رجب مدكور"
+    },
+    "category": "web",
+    "description": {
+      "en": "Modern software engineer portfolio featuring dark theme glassmorphism, project case studies, and smooth layout animations.",
+      "ar": "موقع شخصي لمهندس برمجيات بتصميم فاخر وداكن مع عرض مفصل للمشاريع والخبرات."
+    },
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["React", "Vite", "Tailwind CSS", "Lucide Icons"],
+    "demoUrl": "https://ragab-madkour.vercel.app/",
+    "githubUrl": "https://github.com/codex-technology/ragab-madkour",
+    "featured": false
+  },
+  {
+    "id": "ahmed-refaat-portfolio",
+    "name": {
+      "en": "Ahmed Refaat — Tech Portfolio",
+      "ar": "موقع بورتفوليو — أحمد رفعت"
+    },
+    "category": "web",
+    "description": {
+      "en": "Creative developer showcase with personalized branding, interactive skill bars, and direct project inquiry capabilities.",
+      "ar": "معرض شخصي إبداعي مع استعراض للمهارات والمشاريع والتواصل المباشر مع العملاء."
+    },
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    "demoUrl": "https://ahmedrefaat.vercel.app/",
+    "githubUrl": "https://github.com/codex-technology/ahmed-refaat",
+    "featured": false
+  },
+  {
+    "id": "gold-shop-system",
+    "name": {
+      "en": "Gold Shop & Jewelry ERP System",
+      "ar": "نظام محلات وسوق الذهب والمجوهرات"
+    },
+    "category": "desktop",
+    "description": {
+      "en": "Customized desktop software for gold merchants. Manages live gold carat rates, weight calculations, manufacturing labor fees (مصنعية), and thermal receipt printing.",
+      "ar": "برنامج مخصص لمحلات وشركات الذهب والمجوهرات لحساب أسعار الجرام لحظياً، عيارات الذهب، المصنعية، وطباعة الفواتير حرارياً."
+    },
+    "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["Electron", "React", "TypeScript", "SQLite", "Thermal Printer API"],
+    "demoUrl": "",
+    "githubUrl": "",
+    "featured": true
+  },
+  {
+    "id": "atm-financial-system",
+    "name": {
+      "en": "ATM & Financial Terminal System",
+      "ar": "نظام ماكينات الصراف الآلي والمالية"
+    },
+    "category": "desktop",
+    "description": {
+      "en": "High-security desktop software interface for ATM terminals. Supports card PIN validation, balance check, cash withdrawal logic, and transaction log audits.",
+      "ar": "برنامج ذو أمان عالي لمحاكاة وإدارة ماكينات الصراف الآلي، عمليات السحب والاستعلام وحماية المعاملات المالية."
+    },
+    "image": "https://images.unsplash.com/photo-1556742049-0a67daf64f42?auto=format&fit=crop&w=1200&q=80",
+    "technologies": ["Electron", "C++ Engine", "TypeScript", "Encrypted Storage"],
+    "demoUrl": "",
+    "githubUrl": "",
+    "featured": true
+  }
+]
